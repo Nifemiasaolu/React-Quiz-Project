@@ -1,5 +1,5 @@
-# How React Works
+# React Quiz
 
-This section explains the comprehesive and step by step way in which React works behind the scene.
+This is a portable and functional quiz application built to assess the knowledge of React developers
 
-It gives  deeper and broader view of the functionality and performance of React as a whole.
+
