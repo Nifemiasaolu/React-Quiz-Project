@@ -40,7 +40,7 @@ function reducer(state, action) {
         secondsRemaining: state.questions.length * SECS_PER_QUESTION,
       };
 
-    case "finish":
+    case "completed":
       return {
         ...state,
         status: "finished",
